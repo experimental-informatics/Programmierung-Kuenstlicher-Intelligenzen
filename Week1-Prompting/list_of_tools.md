@@ -17,9 +17,6 @@ https://thisbeachdoesnotexist.com/
 **Online Learning Platform**
 - Coursera, edX, Udacity, Khan Academy, Youtube, kadenze(for artist)
 
-**How to Ask question of stack Overflow**
-
-**Artistic Examples**
 
 
 # list of tools for AI creation
