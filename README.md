@@ -1,4 +1,5 @@
 # Programmierung-Kuenstlicher-Intelligenzen
+[https://ground-zero.khm.de/portfolio/programming-artificial-intelligences/](https://ground-zero.khm.de/portfolio/programming-artificial-intelligences/)
 
 Das Seminar vermittelt die Grundlagen der KI-Programmierung unter Python. Aktuelle KI-Algorithmen und maschinelle Lern-Verfahren (insbesondere Generative Algorithmen der Text- und Bilderzeugung wie Stable Diffusion, GPT-4, etc.) sind der Ausgangspunkt für die Einführung in die grundlegenden Kontroll- und Datenstrukturen der objektorientierten Programmierung. Es wird also nicht erst das Programmieren gelernt, um dann später mit diesem Wissen KI-Projekte zu realisieren, sondern Programmierung wird anhand praktischer Beispiele aus der Künstlichen Intelligenz vermittelt. Auf diese Weise kommen nach einer kurzen Einführung in die Integrierte Entwicklungsumgebung (IDE) Jupyter Notebook/JupyterLab und unter Nutzung aktueller KI-Entwicklungsumgebungen auch absolute Anfänger der KI-Programmierung zu erstaunlichen Ergebnissen.
 
